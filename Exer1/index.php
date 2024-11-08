@@ -28,7 +28,7 @@ body {
     <link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet">
   </head>
   <body>
-      <!--  these do not follow the correct field names  -->
+      <!--  these do not follow the correct field names, add form tag  -->
       <label for="name">Name: </label>
       <input type="text" name="customerName" id="name" placeholder="[Lastname, Firstname M.I.]" />
       <br />
@@ -72,7 +72,7 @@ function validate() {
     }],
     password: [
       {
-      	regex: /\w/,
+      	regex: /\W/,
         error: "Must contain at least one special character",
       }, {
         regex: /\d/,
