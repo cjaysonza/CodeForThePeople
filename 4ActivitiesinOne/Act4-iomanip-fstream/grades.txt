@@ -1,0 +1,9 @@
+Name	QUIZ1	QUIZ2	QUIZ3	QUIZ4	QUIZ5	AVERAGE	Letter Grade
+Lorelee	90	94	95	98	93	94	A	
+Ryan	91	75	75	80	85	81	C+	
+Krom	88	87	84	89	98	89	B+	
+Deanna	90	95	98	98	94	95	A	
+Jared	89	88	75	75	98	85	B	
+Laiza	90	92	93	96	90	92	A	
+
+7 Anomalies Were Found.
